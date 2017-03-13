@@ -91,7 +91,7 @@
                                                         <rect key="frame" x="0.0" y="0.0" width="82" height="122.33333333333334"/>
                                                         <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                                         <fontDescription key="fontDescription" type="system" pointSize="30"/>
-                                                        <state key="normal" title="π">
+                                                        <state key="normal" title="✅">
                                                             <color key="titleColor" cocoaTouchSystemColor="darkTextColor"/>
                                                         </state>
                                                         <connections>
